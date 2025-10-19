@@ -1,5 +1,6 @@
 # Rime_Themes
 个人自用小狼毫Weasel配色
+使用[Rime西米](https://fxliang.github.io/RimeSeeMe/)生成
 # Win11黑色
 ```yaml
 #weasel.custom.yaml
@@ -55,8 +56,8 @@ patch:
     hilited_candidate_back_color: 0xF0F0F0
     hilited_candidate_border_color: 0x00000000
     hilited_candidate_shadow_color: 0x00000000
-    label_color: 0x000000
-    candidate_text_color: 0x000000
+    label_color: 0x1A1A1A
+    candidate_text_color: 0x1A1A1A
     comment_text_color: 0xA91A1A1A
     candidate_back_color: 0x00000000
     candidate_border_color: 0x00000000
