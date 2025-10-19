@@ -35,7 +35,7 @@ patch:
   "style/label_font_point": 11
   "style/comment_font_point": 11
 ```
-#Win11白色
+# Win11白色
 ```yaml
 #weasel.custom.yaml
 "preset_color_schemes/win11-light":
