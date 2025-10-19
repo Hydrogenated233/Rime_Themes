@@ -35,3 +35,33 @@ patch:
   "style/label_font_point": 11
   "style/comment_font_point": 11
 ```
+#Win11白色
+```yaml
+#weasel.custom.yaml
+"preset_color_schemes/win11-light":
+    name: "win11白色配色／win11-light"
+    author: "Hydrogenated233"
+    back_color: 0xF9F9F9
+    shadow_color: 0x00000000
+    border_color: 0x000000
+    text_color: 0x1A1A1A
+    hilited_text_color: 0x1A1A1A
+    hilited_back_color: 0xDDDDDD
+    hilited_shadow_color: 0x00000000
+    hilited_mark_color: 0xC06700
+    hilited_label_color: 0x1A1A1A
+    hilited_candidate_text_color: 0x1A1A1A
+    hilited_comment_text_color: 0xA91A1A1A
+    hilited_candidate_back_color: 0xF0F0F0
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_shadow_color: 0x00000000
+    label_color: 0x000000
+    candidate_text_color: 0x000000
+    comment_text_color: 0xA91A1A1A
+    candidate_back_color: 0x00000000
+    candidate_border_color: 0x00000000
+    candidate_shadow_color: 0x00000000
+    prevpage_color: 0x1A1A1A
+    nextpage_color: 0x1A1A1A
+```
+覆盖或新增都可
