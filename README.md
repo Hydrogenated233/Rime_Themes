@@ -31,4 +31,7 @@ patch:
       candidate_shadow_color: 0x00000000
       prevpage_color: 0xFFFFFF
       nextpage_color: 0xFFFFFF
+  "style/font_point": 11
+  "style/label_font_point": 11
+  "style/comment_font_point": 11
 ```
